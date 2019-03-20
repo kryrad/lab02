@@ -1,0 +1,30 @@
+C:\Users\kriss\Downloads\Lab02\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Users\kriss\Downloads\Lab02\Lab01\obj\Debug\MainWindow.g.cs
+C:\Users\kriss\Downloads\Lab02\Lab01\obj\Debug\App.g.cs
+C:\Users\kriss\Downloads\Lab02\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+C:\Users\kriss\Downloads\Lab02\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+C:\Users\kriss\Downloads\Lab02\Lab01\obj\Debug\MainWindow.baml
+C:\Users\kriss\Downloads\Lab02\Lab01\obj\Debug\Lab01.g.resources
+C:\Users\kriss\Downloads\Lab02\Lab01\obj\Debug\Lab01.pdb
+C:\Users\kriss\Downloads\Lab02\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\kriss\Downloads\Lab02\Lab01\bin\Debug\Lab01.exe
+C:\Users\kriss\Downloads\Lab02\Lab01\bin\Debug\Lab01.pdb
+C:\Users\kriss\Downloads\Lab02\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\kriss\Downloads\Lab02\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+C:\Users\kriss\Downloads\Lab02\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\kriss\Downloads\Lab02\Lab01\obj\Debug\Lab01.exe
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\bin\Debug\Lab01.exe.config
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\bin\Debug\Lab01.exe
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\bin\Debug\Lab01.pdb
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\obj\Debug\App.g.cs
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\obj\Debug\Lab01.g.resources
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\obj\Debug\Lab01.exe
+D:\Program Files (x86)\Studia\SEM_6\C# JAVA\Lab02\Lab01\obj\Debug\Lab01.pdb

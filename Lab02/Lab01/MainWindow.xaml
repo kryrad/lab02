@@ -1,0 +1,55 @@
+﻿<Window x:Class="Lab01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListBox Margin="20" ItemsSource="{Binding Items}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Path=Name}" Width="100"/>
+                        <TextBlock Text="{Binding Path=Age}" Width="100"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <StackPanel Grid.Column="1" Margin="20" Orientation="Vertical">
+            <TextBlock TextWrapping="Wrap" Text="Name"/>
+            <TextBox Name ="nameTextBox" Height="23" TextWrapping="Wrap" Text="Jarosław" Margin="0,0,0,10"/>
+            <TextBlock TextWrapping="Wrap" Text="Age"/>
+            <TextBox Name="ageTextBox" Height="23" TextWrapping="Wrap" Text="99"  Margin="0,0,0,10"/>
+            <Button Name = "addNewPersonButton" Content="Add new person" Click="AddNewPersonButton_Click"/>
+            <Grid Height="50">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="95*"/>
+                    <ColumnDefinition Width="261*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Button Content="Perform stupid calculations" Grid.Column="1" Margin="5" Grid.Row="0" Grid.RowSpan="2" Click="Button_Click"/>
+                <TextBlock Text="Final number" Grid.Column="0" Grid.Row="0" Margin="0" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="16" Width="69"></TextBlock>
+                <TextBox x:Name="finalNumberTextBox" Text="0" Grid.Column="0" Grid.Row="1" VerticalAlignment="Top" Height="18"></TextBox>
+            </Grid>
+            <TextBlock x:Name="progressTextBlock" TextWrapping="Wrap"><InlineUIContainer>
+                    
+                </InlineUIContainer></TextBlock>
+            <TextBlock x:Name="progressTextBlock2" TextWrapping="Wrap"><InlineUIContainer>
+             
+                </InlineUIContainer></TextBlock>
+            
+            <Button Content="Async" Margin="114,0" Click="asyncButton" />
+            <ProgressBar Name="progess" Height="17" Width="100" ValueChanged="Progess_ValueChanged"/>
+            <TextBlock TextWrapping="Wrap" Text="" Height="139" Name="result"/>
+        </StackPanel>
+    </Grid>
+</Window>
